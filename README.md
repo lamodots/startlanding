@@ -19,7 +19,7 @@ Step into the next generation of real estate, where innovation meets investment.
 ### clone project
 
 ```js
-git clone `https://github.com/lamodots/prohouse.git`
+git clone `https://github.com/lamodots/startlanding`
 
 ```
 
@@ -33,7 +33,7 @@ npm run start
 ### Live project
 
 ```js
-https://prohouse.onrender.com
+https://startlanding.onrender.com
 
 ```
 
